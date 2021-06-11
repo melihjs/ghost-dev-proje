@@ -1,0 +1,12 @@
+{
+  "name": "ghost-dev-proje",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "zMelihstrqfe",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ghost-dev-console": "0.0.1"
+  }
+}
